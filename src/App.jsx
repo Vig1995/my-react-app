@@ -18,7 +18,6 @@ function App() {
     'Abhiram': 'https://www.youtube.com/embed/5beOlS5Ts24?si=D56mHR7CsIBuVDCy',
     'Bharath': 'https://www.youtube.com/embed/vQcHPQJ4Ujs?si=sGDSzhQetr87Plo1',
     'prasad': 'https://www.youtube.com/embed/vQcHPQJ4Ujs?si=sGDSzhQetr87Plo1'
-    
   }  
 
   
